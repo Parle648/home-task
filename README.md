@@ -1,0 +1,9 @@
+To run this app, install Node.js version 18.17.1.
+
+Open the project in any code editor of your choice.
+
+After that, run the index.js file using the command 
+```js 
+node index.js
+```
+in the command line.
